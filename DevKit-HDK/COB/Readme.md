@@ -1,8 +1,18 @@
 ## Content Description
 
-COB_min: The minimum BOM HDR of OPL1000 COB without flash.
+COB:
 
-History: The prevous versions of HDR for reference
+COB_min: The minimum BOM HDR of OPL1000 COB without flash
+
+History: The previous versions of HDR for reference
+
+#
+
+COB方案:
+
+COB_min: OPL1000 COB 不帶Flash最少零件版本
+
+History: 歷史版本存放區
 
 
 
