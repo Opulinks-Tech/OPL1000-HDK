@@ -6,8 +6,6 @@ Directories:
 
 - COB: Chip-on-Board reference design 
 
-- Driver_Tool: Drivers and Tools for USB-to-UART on reference mother board
-
 - Module: Modules reference design
 
 Files:
@@ -25,7 +23,7 @@ Files:
 目錄說明:
 
 - COB: Chip-on-Board 參考設計
-- Driver_Tool: USB-to-UART 驅動工具
+
 - Module: 模塊參考設計
 
 檔案說明:
