@@ -14,7 +14,7 @@ Files:
 
 - OPL1000-HDK_ENG.pdf: HDK document in English
 
-- modification of HDK 20190522.docx: HDK changelist (20190522)
+- modification of HDK.docx: HDK changelist
 						
 #
 
@@ -32,5 +32,5 @@ Files:
 
 - OPL1000-HDK_ENG.pdf: HDK 英文版本說明及介紹文檔
 
-- modification of HDK 20190522.docx: HDK 更改列表 (20190522)
+- modification of HDK.docx: HDK 更改列表
 
