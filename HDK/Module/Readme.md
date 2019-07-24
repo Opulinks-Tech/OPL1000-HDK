@@ -5,13 +5,15 @@ Modules:
 D366F_V10_F: HDR of OPL1000 module with flash and antenna <br>
 1. Need pull-up/down resistors and bypass capacitors on mother board
 2. low BOM cost
-3. ESP-12F pin-to-pin compatible
+3. ESP-12F pin-to-pin compatible <br>
+
 ![image](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/F_PullUp.JPG)
 
 D366F_V10_S: HDR of OPL1000 module with flash and antenna <br>
 1. Built-in pull-up/down resistors and bypass capacitors
 2. Easy to design external circuits
-3. ESP-12S pin-to-pin compatible
+3. ESP-12S pin-to-pin compatible <br>
+
 ![image](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/S_PullUp.JPG)
 
 Old version
