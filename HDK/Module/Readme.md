@@ -3,8 +3,10 @@
 Modules:
 
 D366F_V10_F: HDR of OPL1000 module with flash and antenna (ESP-12F pin-to-pin compatible)
-
+Need pull-up/down resistors and bypass capacitors on mother board
+ 
 D366F_V10_S: HDR of OPL1000 module with flash and antenna (ESP-12S pin-to-pin compatible)
+Built-in pull-up/down resistors and bypass capacitors
 
 D3F: HDR of OPL1000 module with flash and antenna
 
@@ -21,8 +23,10 @@ History: The previous versions of HDR for reference
 模塊方案:
 
 D366F_V10_F: OPL1000 模塊參考設計 (模塊帶外置FLASH 以及天線, ESP-12F设计管脚兼容)
+底板需增加上拉/下拉電阻及去耦电容
 
 D366F_V10_S: OPL1000 模塊參考設計 (模塊帶外置FLASH 以及天線, ESP-12S设计管脚兼容)
+內建上拉/下拉電阻及去耦电容
 
 D3F: OPL1000 模塊參考設計 (模塊帶外置FLASH 以及天線)
 
