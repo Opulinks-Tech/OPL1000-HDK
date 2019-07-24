@@ -2,38 +2,52 @@
 
 Modules:
 
-D366F_V10_F: HDR of OPL1000 module with flash and antenna (ESP-12F pin-to-pin compatible) <br>
-Need pull-up/down resistors and bypass capacitors on mother board
- 
-D366F_V10_S: HDR of OPL1000 module with flash and antenna (ESP-12S pin-to-pin compatible) <br>
-Built-in pull-up/down resistors and bypass capacitors
+D366F_V10_F: HDR of OPL1000 module with flash and antenna <br>
+1. Need pull-up/down resistors and bypass capacitors on mother board
+2. low BOM cost
+3. ESP-12F pin-to-pin compatible
 
+D366F_V10_S: HDR of OPL1000 module with flash and antenna <br>
+1. Built-in pull-up/down resistors and bypass capacitors
+2. Easy to design external circuits
+3. ESP-12S pin-to-pin compatible
+
+Old version
+------------------------------------------------------------------------------------------
 D3F: HDR of OPL1000 module with flash and antenna
 
 D3FP: HDR of OPL1000 module with flash, without antenna
 
 D3FV: HDR of OPL1000 module with flash, antenna, and single external LDO
 
+------------------------------------------------------------------------------------------
 Driver_Tool: Drivers and Tools for USB-to-UART on reference mother board
 
 History: The previous versions of HDR for reference
 
 #
 
-模塊方案:
+模块方案:
 
-D366F_V10_F: OPL1000 模塊參考設計 (模塊帶外置FLASH 以及天線, ESP-12F设计管脚兼容) <br>
-底板需增加上拉/下拉電阻及去耦电容
+D366F_V10_F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线) <br>
+1. 底板需增加上拉/下拉电阻及去耦电容
+2. 最低BOM cost
+3. ESP-12F设计管脚兼容
 
-D366F_V10_S: OPL1000 模塊參考設計 (模塊帶外置FLASH 以及天線, ESP-12S设计管脚兼容) <br>
-內建上拉/下拉電阻及去耦电容
+D366F_V10_S: OPL1000 模块参考设计 (模块带外置FLASH 以及天线) <br>
+1. 模块内建上拉/下拉电阻及去耦电容
+2. 外部电路设计简易直觉
+3. ESP-12S设计管脚兼容
 
-D3F: OPL1000 模塊參考設計 (模塊帶外置FLASH 以及天線)
+旧版
+------------------------------------------------------------------------------------------
+D3F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线)
 
-D3FP: OPL1000 模塊參考設計 (模塊帶外置FLASH, 無天線)
+D3FP: OPL1000 模块参考设计 (模塊帶外置FLASH, 無天線)
 
-D3FV: OPL1000 模塊參考設計 (模塊帶外置FLASH以及天線, 並帶外置的 LDO)
+D3FV: OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO)
 
-Driver_Tool: USB-to-UART 驅動工具
+------------------------------------------------------------------------------------------
+Driver_Tool: USB-to-UART 驱动工具
 
-History: 歷史版本存放區
+History: 历史版本存放区
