@@ -2,24 +2,24 @@
 
 Modules:
 
-D366F_V10_F: HDR of OPL1000 module with flash and antenna <br>
+D366F_V11_F: HDR of OPL1000 module with flash and antenna <br>
 1. Need pull-up/down resistors and bypass capacitors on mother board
 2. low BOM cost
 3. ESP-12F pin-to-pin compatible <br>
 
-D366FV_V10_F: HDR of OPL1000 module with flash and antenna <br>
+D366FV_V11_F: HDR of OPL1000 module with flash and antenna <br>
 1. Need pull-up/down resistors and bypass capacitors on mother board
 2. Using external LDO 
 3. ESP-12F pin-to-pin compatible <br>
 
 ![image](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/F_PullUp.JPG)
 
-D366V_V10_S: HDR of OPL1000 module with flash and antenna <br>
+D366V_V11_S: HDR of OPL1000 module with flash and antenna <br>
 1. Built-in pull-up/down resistors and bypass capacitors
 2. Easy to design external circuits
 3. ESP-12S pin-to-pin compatible <br>
 
-D366FV_V10_S: HDR of OPL1000 module with flash and antenna <br>
+D366FV_V11_S: HDR of OPL1000 module with flash and antenna <br>
 1. Built-in pull-up/down resistors and bypass capacitors
 2. Using external LDO
 3. ESP-12S pin-to-pin compatible <br>
@@ -43,22 +43,22 @@ History: The previous versions of HDR for reference
 
 模块方案:
 
-D366F_V10_F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线) <br>
+D366F_V11_F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线) <br>
 1. 底板需增加上拉/下拉电阻及去耦电容
 2. 最低BOM cost
 3. ESP-12F管脚兼容设计
 
-D366FV_V10_F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO) <br>
+D366FV_V11_F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO) <br>
 1. 底板需增加上拉/下拉电阻及去耦电容
 2. 使用外置LDO
 3. ESP-12F管脚兼容设计
 
-D366F_V10_S: OPL1000 模块参考设计 (模块带外置FLASH 以及天线) <br>
+D366F_V11_S: OPL1000 模块参考设计 (模块带外置FLASH 以及天线) <br>
 1. 模块内建上拉/下拉电阻及去耦电容
 2. 外部电路设计简易直觉
 3. ESP-12S管脚兼容设计
 
-D366FV_V10_S: OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO) <br>
+D366FV_V11_S: OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO) <br>
 1. 模块内建上拉/下拉电阻及去耦电容
 2. 使用外置LDO
 3. ESP-12S管脚兼容设计
