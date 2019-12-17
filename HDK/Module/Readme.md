@@ -1,77 +1,57 @@
-## Content Description
+## 模块方案:
 
-Modules:
+**模块組合表**
 
-D366F_V11_F: HDR of OPL1000 module with flash and antenna <br>
-1. Need pull-up/down resistors and bypass capacitors on mother board
-2. low BOM cost
-3. ESP-12F pin-to-pin compatible <br>
+| **HDK 版本**         | **V1**                      | **V11**          | **V12**          |
+| -------------------- | --------------------------- | ---------------- | ---------------- |
+| **兼容性**           | **ESP32**                   | **ESP8266**      | **ESP8266**      |
+| **性能版**           | **D3FV**                    | **D366FV_V11.F** | **D366FV_V12.F** |
+| **最佳功耗与成本版** | **D3F   D3FP (無天線版本)** | **D366F_V11.F**  | **N/A**          |
 
-D366FV_V11_F: HDR of OPL1000 module with flash and antenna <br>
-1. Need pull-up/down resistors and bypass capacitors on mother board
-2. Using external LDO 
-3. ESP-12F pin-to-pin compatible <br>
+注意：	1.其中D366FV_V12.F和D366F_V11.F为最新版本；
 
-![image](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/F_PullUp.JPG)
+		2.以上所列模块都为F版本（即不包含上拉/下拉电阻及去耦电容的版本）；
+	
+		3.除此之外，还有内置上拉/下拉电阻及去耦电容的S版本 。
 
-D366V_V11_S: HDR of OPL1000 module with flash and antenna <br>
-1. Built-in pull-up/down resistors and bypass capacitors
-2. Easy to design external circuits
-3. ESP-12S pin-to-pin compatible <br>
+## 最新模块說明
 
-D366FV_V11_S: HDR of OPL1000 module with flash and antenna <br>
-1. Built-in pull-up/down resistors and bypass capacitors
-2. Using external LDO
-3. ESP-12S pin-to-pin compatible <br>
+D366F_V11_F: 
 
-![image](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/S_PullUp.JPG)
+OPL1000 模块参考设计 (模块带外置FLASH 以及天线) <br>
 
-Old version
-------------------------------------------------------------------------------------------
-D3F: HDR of OPL1000 module with flash and antenna
-
-D3FP: HDR of OPL1000 module with flash, without antenna
-
-D3FV: HDR of OPL1000 module with flash, antenna, and single external LDO
-
-------------------------------------------------------------------------------------------
-Driver_Tool: Drivers and Tools for USB-to-UART on reference mother board
-
-History: The previous versions of HDR for reference
-
-#
-
-模块方案:
-
-D366F_V11_F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线) <br>
 1. 底板需增加上拉/下拉电阻及去耦电容
 2. 最低BOM cost
 3. ESP-12F管脚兼容设计
 
-D366FV_V11_F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO) <br>
+D366FV_V12_F: 
+
+OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO) <br>
+
 1. 底板需增加上拉/下拉电阻及去耦电容
 2. 使用外置LDO
 3. ESP-12F管脚兼容设计
 
-D366F_V11_S: OPL1000 模块参考设计 (模块带外置FLASH 以及天线) <br>
-1. 模块内建上拉/下拉电阻及去耦电容
-2. 外部电路设计简易直觉
-3. ESP-12S管脚兼容设计
+**上拉/下拉电阻及去耦电容**
 
-D366FV_V11_S: OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO) <br>
-1. 模块内建上拉/下拉电阻及去耦电容
-2. 使用外置LDO
-3. ESP-12S管脚兼容设计
+OPL1000提供F與S版本HDK. 
 
-旧版
-------------------------------------------------------------------------------------------
+F版: 底板需增加上拉/下拉电阻及去耦电容
+
+[![image](file:///E:/git_hdk/OPL1000-HDK/HDK/Module/F_PullUp.JPG)](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/F_PullUp.JPG)
+
+S版: 模块内建上拉/下拉电阻及去耦电容
+
+[![image](file:///C:/Users/Think/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/S_PullUp.JPG)
+
+## 旧版本
 D3F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线)
 
 D3FP: OPL1000 模块参考设计 (模塊帶外置FLASH, 無天線)
 
 D3FV: OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO)
 
-------------------------------------------------------------------------------------------
+## 目录结构
 Driver_Tool: USB-to-UART 驱动工具
 
 History: 历史版本存放区
