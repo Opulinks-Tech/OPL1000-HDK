@@ -39,13 +39,13 @@ OPL1000提供F與S版本HDK.
 
 F版: 底板需增加上拉/下拉电阻及去耦电容
 
-[![image](file:///E:/gitHDK/OPL1000-HDK/HDK/Module/F_PullUp.png)](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/F_PullUp.png)
+![avatar](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/F_PullUp.png)
 
 
 
 S版: 模块内建上拉/下拉电阻及去耦电容
 
-[![image](file:///E:/gitHDK/OPL1000-HDK/HDK/Module/S_PullUp.png)](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/S_PullUp.png)
+![avatar](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/S_PullUp.png)
 
 ## 旧版本
 D3F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线)
