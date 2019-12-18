@@ -8,11 +8,12 @@
 | **性能版**           | **D3FV**                    | **D366FV_V11.F** | **D366FV_V12.F** |
 | **最佳功耗与成本版** | **D3F   D3FP (無天線版本)** | **D366F_V11.F**  | **N/A**          |
 
-注意：	1.其中D366FV_V12.F和D366F_V11.F为最新版本；
+注意：	
+​		1.其中D366FV_V12.F和D366F_V11.F为最新版本；
 
-		2.以上所列模块都为F版本（即不包含上拉/下拉电阻及去耦电容的版本）；
-	
-		3.除此之外，还有内置上拉/下拉电阻及去耦电容的S版本 。
+​                2.以上所列模块都为F版本（即不包含上拉/下拉电阻及去耦电容的版本）；
+
+​                3.除此之外，还有内置上拉/下拉电阻及去耦电容的S版本 。
 
 ## 最新模块說明
 
@@ -38,11 +39,13 @@ OPL1000提供F與S版本HDK.
 
 F版: 底板需增加上拉/下拉电阻及去耦电容
 
-[![image](file:///E:/git_hdk/OPL1000-HDK/HDK/Module/F_PullUp.JPG)](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/F_PullUp.JPG)
+[![image](file:///E:/gitHDK/OPL1000-HDK/HDK/Module/F_PullUp.png)](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/F_PullUp.png)
+
+
 
 S版: 模块内建上拉/下拉电阻及去耦电容
 
-[![image](file:///C:/Users/Think/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/S_PullUp.JPG)
+[![image](file:///E:/gitHDK/OPL1000-HDK/HDK/Module/S_PullUp.png)](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/HDK/Module/S_PullUp.png)
 
 ## 旧版本
 D3F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线)
