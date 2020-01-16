@@ -5,8 +5,8 @@
 | **HDK 版本**         | **V1**                                                       | **V11**                                                      | **V12**              |
 | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------- |
 | **兼容性**           | **ESP32**                                                    | **ESP8266**                                                  | **ESP8266**          |
-| **性能版**           | **[D3FV](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D3FV_v1.zip)** | **[D366FV_V11.F](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D366FV_V11_F.zip)** | **[D366FV_V11.F]()** |
-| **最佳功耗与成本版** | **[D3F](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D3F_v1.zip)   [D3FP](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D3FP_v1.zip) (无天线版本)** | **[D366F_V11.F](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D366F_V11_F.zip)** | **[D366F_V11.F]()**  |
+| **性能版**           | **[D3FV](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D3FV_v1.zip)** | **[D366FV_V11.F](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D366FV_V11_F.zip)** | **[D366FV_V12.F]()** |
+| **最佳功耗与成本版** | **[D3F](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D3F_v1.zip)   [D3FP](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D3FP_v1.zip) (无天线版本)** | **[D366F_V11.F](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D366F_V11_F.zip)** | **[D366F_V12.F]()**  |
 
 注意：	
 ​		             1.其中D366FV_V11.F和D366F_V11.F为最新版本；
