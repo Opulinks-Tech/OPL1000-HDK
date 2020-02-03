@@ -1,5 +1,6 @@
 
-# 旺凌科技官方 OPL1000 硬件参考设计资源库
+# OPL1000-HDK  
+旺凌科技官方 OPL1000 硬件参考设计资源库
 
 內容:
 
@@ -11,8 +12,8 @@
 - Module: 模块参考设计目录
 
 ---  
-
-# OPL1000-HDK
+  
+  
 Opulinks official hardware development kit for OPL1000.
 
 Content:
