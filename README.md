@@ -18,12 +18,12 @@ Opulinks official hardware development kit for OPL1000.
 
 Content:
 
-- OPL1000-DS-NonNDA.pdf: OPL1000 Datasheet Non-NDA version
-- OPL1200-DataSheet-NonNDA.pdf: OPL1200 Datasheet Non-NDA version
 - COB: Chip-on-Board reference design
 - Module: Modules reference design
+- OPL1000-DS-NonNDA.pdf: OPL1000 Datasheet Non-NDA version
 - OPL1000-HDK Development Guide_UG1-01-1.1.pdf: HDK document
 - OPL1000-HDK_ENG.pdf: HDK document in English
+- OPL1200-DataSheet-NonNDA.pdf: OPL1200 Datasheet Non-NDA version
 
 
 
