@@ -8,12 +8,15 @@
 | **性能版**           | **[D3FV](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D3FV_v1.zip)** | **[D366FV_V11.F](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D366FV_V11_F.zip)** | **[D366FV_V13.F](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/D366FV_V13.rar)** |  **[D332FV_V13.S](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/ESP32_D3FV.rar)**   |
 | **最佳功耗与成本版** | **[D3F](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D3F_v1.zip)   [D3FP](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D3FP_v1.zip) (无天线版本)** | **[D366F_V11.F](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/D366F_V11_F.zip)** | **[D366F_V13.F](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/D366F_V13.rar)**  |  N/A  |
 
-注意：	
+注意：　　
+
 ​		             1.其中D366FV_V13.F, D366F_V13.F和 D332FV_V13.S为最新版本；
 
-​                2.以上所列模块的F版本即为不包含上拉/下拉电阻及去耦电容的版本；
+​                2.OPL1000提供F與S版本HDK.
 
-​                3.除此之外，还有内置上拉/下拉电阻及去耦电容的S版本 。
+　　　其中，以上所列模块的F版本即为不包含上拉/下拉电阻及去耦电容的版本（請參考下方＂上拉/下拉电阻及去耦电容＂）；　　
+
+　　　除此之外，还有内置上拉/下拉电阻及去耦电容的S版本 。
 
 ## 最新模块說明
 
@@ -39,8 +42,6 @@ OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 L
 
 ---
 **上拉/下拉电阻及去耦电容**
-
-OPL1000提供F與S版本HDK. 
 
 F版: 底板需增加上拉/下拉电阻及去耦电容
 
