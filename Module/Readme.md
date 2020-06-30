@@ -14,9 +14,9 @@
 |  **链结** |  **[OPL1200A2](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/OPL1200A2.rar)** | 
   
 **OPL1200 球泡灯通用模组**  
-| 釋出時間  |     2020/06/30 | 
+| 釋出日期  | 2020/06/30 | 
 | --------  | ----- |  
-|  **链结** |  **[Light](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/light_OPL1200.rar)** | 
+|  **链结** |  **[Light_OPL1200](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/light_OPL1200.rar)** | 
 
 
 ## 最新模块說明
@@ -34,7 +34,10 @@
   3. ESP-12F管脚兼容设计      
 
 * OPL1200A2:  
-  1. OPL1200 模块参考设计 (基于OPL1000上，内嵌flash)
+  1. OPL1200 模块参考设计 (基于OPL1000上，内嵌flash)  
+  
+* Light_OPL1200 
+  1. OPL1200球泡灯4层板通用模组
   
 ---
 ## 旧版本模块說明
