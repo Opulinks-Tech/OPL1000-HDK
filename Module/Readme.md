@@ -16,7 +16,7 @@
 **OPL1200 球泡灯通用模组**  
 | 釋出日期  | 2020/06/30 |  2020/7/31 |
 | --------  | --------- |  ----------|  
-|  **链结** |  **[Light_OPL1200](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/light_OPL1200.rar)** | **[Light_OPL1200_202007](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/Light_OPL1200_202007.rar)**|
+|  **链结** |  **[Light_OPL1200](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/light_OPL1200.rar)** | **[Light_OPL1200_v2](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/Light_OPL1200_202007.rar)**|
 
 
 ## 最新模块說明
@@ -38,6 +38,9 @@
   
 * Light_OPL1200 
   1. OPL1200球泡灯4层板通用模组
+  2. v2版，增加了BOM 表
+  3. v2版，模组的board outline 更改1mil（gerber文件board outline 视图差），重新生成了gerber文件
+
   
 ---
 ## 旧版本模块說明
