@@ -11,7 +11,7 @@
 **OPL1200 模块組合表**  
 | HDK 版本  |    V1    |  
 | --------  | ----- |  
-|  **链结** |  **[OPL1200A2](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/OPL1200A2.rar)** | 
+|  **链结** |  **[OPL1200](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/OPL1200A2.rar)** | 
   
 **OPL1200 球泡灯通用模组**  
 | 釋出日期  | 2020/06/30 |  2020/7/31 |
