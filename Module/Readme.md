@@ -37,10 +37,7 @@
   1. OPL1200 模块参考设计 (基于OPL1000上，内嵌flash)  
   
 * Light_OPL1200 
-  1. OPL1200球泡灯4层板通用模组
-  2. v2版，增加了BOM 表
-  3. v2版，模组的board outline 更改1mil（gerber文件board outline 视图差），重新生成了gerber文件
-
+  1. OPL1200球泡灯4层板通用模组  
   
 ---
 ## 旧版本模块說明
