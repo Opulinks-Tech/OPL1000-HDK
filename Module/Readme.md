@@ -11,7 +11,7 @@
 **OPL1200 模块組合表**  
 | HDK 版本  |    V2    |    V3    |
 | --------  | -------- |  ------- |
-| **性能版**|  **[OPL1200](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/OPL_1200_External_v2.rar)** | **[OPL1200_L]()**|
+| **性能版**|  **[OPL1200](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/OPL_1200_External_v2.rar)** | **[OPL1200L_V3]()**|
   
 **OPL1200 球泡灯通用模组**  
 | **HDK 版本** |   **V2**   |
