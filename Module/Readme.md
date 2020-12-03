@@ -71,11 +71,11 @@ OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 L
 
 1. 使用外置LDO  
 
-D3F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线)
+* D3F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线)
 
-D3FP: OPL1000 模块参考设计 (模塊帶外置FLASH, 無天線)
+* D3FP: OPL1000 模块参考设计 (模塊帶外置FLASH, 無天線)
 
-D3FV: OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO)
+* D3FV: OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO)
 
 ## 目录结构
 Driver_Tool: USB-to-UART 驱动工具
