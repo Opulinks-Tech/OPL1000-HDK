@@ -29,29 +29,6 @@
   1. OPL1200球泡灯4层板通用模组  
   
 ---
-## 旧版本模块說明
-
-* D366F_V13_F: 
-
-OPL1000 模块参考设计 (模块带外置FLASH 以及天线) <br>
-
-1. 最低BOM cost
-2. ESP-12F管脚兼容设计
-
-* D366FV_V13_F: 
-
-OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO) <br>
-
-1. 使用外置LDO
-2. ESP-12F管脚兼容设计  
-
-* D332FV_V13.S:  
-
-OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO) <br>
-
-1. 使用外置LDO  
-
----
 **注意:**   
 OPL1000提供F與S版本HDK.
 
@@ -73,7 +50,27 @@ S版: 模块内建上拉/下拉电阻及去耦电容
 
 ![avatar](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/S_PullUp.png)
 
-## 旧版本
+## 旧版本  
+* D366F_V13_F: 
+
+OPL1000 模块参考设计 (模块带外置FLASH 以及天线) <br>
+
+1. 最低BOM cost
+2. ESP-12F管脚兼容设计
+
+* D366FV_V13_F: 
+
+OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO) <br>
+
+1. 使用外置LDO
+2. ESP-12F管脚兼容设计  
+
+* D332FV_V13.S:  
+
+OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO) <br>
+
+1. 使用外置LDO  
+
 D3F: OPL1000 模块参考设计 (模块带外置FLASH 以及天线)
 
 D3FP: OPL1000 模块参考设计 (模塊帶外置FLASH, 無天線)
