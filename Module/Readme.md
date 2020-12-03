@@ -20,19 +20,8 @@
 
 
 ## 最新模块說明
-1. D366F_V14为最新版本  
-2. D366F_V14版本因增加Brown out &Diodes电路，请依产品需求,再选择使用V_14相关(Brown out &Diodes)线路    
-  
-* D366F_V14: 
-  1. OPL1000 模块参考设计 (模块带外置FLASH 以及天线) <br>
-  2. 最低BOM cost  
-  3. ESP-12F管脚兼容设计  
-  
-* D366FV_V14:  
-  1. OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 LDO) <br>
-  2. 使用外置LDO
-  3. ESP-12F管脚兼容设计      
-
+* D566D_V15/ D566L_V15/ OPL1200L_V3为最新版本  
+    
 * OPL1200A2:  
   1. OPL1200 模块参考设计 (基于OPL1000上，内嵌flash)  
   
