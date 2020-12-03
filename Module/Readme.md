@@ -5,7 +5,7 @@
 | -------------- |------------|
 | **兼容性**      | **D566**  |
 | **性能版**      | **[D566L_V15](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/OPL1000A2_D566L_EXLDO.rar)** |
-| **最佳功耗与成本版** |**[D566D_V15]**(https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/OPL1000A2_D566D_Internal.rar) | 
+| **最佳功耗与成本版** |**[D566D_V15](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/OPL1000A2_D566D_Internal.rar)** | 
   
   
 **OPL1200 模块組合表**  
