@@ -14,9 +14,9 @@
 | **性能版**| **[OPL1200L_V3](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/V01_OPL1200A2_D566L_EXLDO.rar)**|
   
 **OPL1200 球泡灯通用模组**  
-| **HDK 版本** |   **V2**   |
+| **HDK 版本** |   **V3**   |
 | --------  |  ----------|  
-|  **链结** |  **[球泡灯通用模组](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/%E7%90%83%E6%B3%A1%E7%81%AF%E9%80%9A%E7%94%A8%E6%A8%A1%E7%BB%84.rar)**|
+|  **链结** |  **[球泡灯通用模组](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/OPL1200A2-Ball-light-module_V3.rar)**|
 
 
 ## 最新模块說明
