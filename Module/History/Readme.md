@@ -14,7 +14,7 @@
 **OPL1200 球泡灯通用模组**  
 | **HDK 版本** |   **V2**   |
 | --------  |  ----------|  
-|  **链结** |  **[Ball-light-module](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/History/%E7%90%83%E6%B3%A1%E7%81%AF%E9%80%9A%E7%94%A8%E6%A8%A1%E7%BB%84_V2.rar)**|
+|  **链结** |  **[Ball-light-module](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/History/%E7%90%83%E6%B3%A1%E7%81%AF%E9%80%9A%E7%94%A8%E6%A8%A1%E7%BB%84_V2.rar)**|
 
   
 ## 历史模块說明
