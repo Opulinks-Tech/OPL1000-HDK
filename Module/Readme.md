@@ -16,11 +16,11 @@
 **OPL1200 球泡灯通用模组**  
 | **HDK 版本** |   **V3**   |
 | --------  |  ----------|  
-|  **链结** |  **[球泡灯通用模组](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/OPL1200A2-Ball-light-module_V3.rar)**|
+|  **链结** |  **[Ball-light-module](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/OPL1200A2-Ball-light-module_V3.rar)**|
 
 
 ## 最新模块說明
-* D566D_V15/ D566L_V15/ OPL1200L_V3为最新版本  
+* D566D_V15/ D566L_V15/ OPL1200L_V3/ Ball-light-module为最新版本  
     
 * OPL1200A2:  
   1. OPL1200 模块参考设计 (基于OPL1000上，内嵌flash)  
