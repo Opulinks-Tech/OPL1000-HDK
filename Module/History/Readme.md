@@ -8,7 +8,15 @@
 **OPL1200 模块組合表**  
 | HDK 版本  |    V2    |
 | --------  | -------- |
-| **性能版**|  **[OPL1200](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/History/OPL_1200_External_v2.rar)** |
+| **性能版**|  **[OPL1200](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/History/OPL_1200_External_v2.rar)** |  
+  
+  
+**OPL1200 球泡灯通用模组**  
+| **HDK 版本** |   **V2**   |
+| --------  |  ----------|  
+|  **链结** |  **[球泡灯通用模组](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/%E7%90%83%E6%B3%A1%E7%81%AF%E9%80%9A%E7%94%A8%E6%A8%A1%E7%BB%84.rar)**|
+
+  
 ## 历史模块說明
 
 V14.
@@ -47,9 +55,12 @@ OPL1000 模块参考设计 (模块带外置FLASH 以及天线, 并带外置的 L
   
   
 **OPL1200A2**:  
-
 OPL1200 模块参考设计 (基于OPL1000上，内嵌flash)
-  
+
+**Light_OPL1200** 
+OPL1200球泡灯4层板通用模组 
+
+
 ---  
 **注意:**   
 OPL1000提供F與S版本HDK.
