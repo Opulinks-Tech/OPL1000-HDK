@@ -20,7 +20,7 @@
 
 
 ## 最新模块說明
-* D566D_V15/ D566L_V15/ OPL1200L_V3/ Ball-light-module为最新版本  
+* D566D_V15/ D566L_V15/ OPL1200L_V3/ smart lighting_V3 为最新版本  
     
 * OPL1200A2:  
   1. OPL1200 模块参考设计 (基于OPL1000上，内嵌flash)  
