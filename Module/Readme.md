@@ -4,7 +4,7 @@
 | **HDK 版本**    | **V01** |
 | -------------- |------------|
 | **兼容性**      | **D566**  |
-| **性能版**      | **[D566L_V15](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/OPL1600_EXTLDO.rar)** |
+| **性能版**      | **[D566L_V01](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/OPL1600_EXTLDO.rar)** |
 | **最佳功耗与成本版** |**[D566D_V01](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/OPL1600_Internal.rar)** | 
  
 
