@@ -31,7 +31,7 @@
 * D566D_V15/ D566L_V15/ OPL1200L_V02(3邊pin版本)/ smart lighting_V3 為最新版本  
     
 * OPL1200A2:  
-  1. OPL1200 模塊参考設计 (基於OPL1000上，内嵌flash)  
+  1. OPL1200 模塊参考設計 (基於OPL1000上，内嵌flash)  
   
 * Light_OPL1200 
   1. OPL1200球泡燈4層板通用模组  
