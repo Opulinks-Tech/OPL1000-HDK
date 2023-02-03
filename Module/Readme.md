@@ -16,7 +16,7 @@
 | **最佳功耗與成本版** |**[D566D_V15](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/OPL1000A2_D566D_Internal.rar)** | 
   
   
-**OPL1200 模塊組合表(3边pin)**  
+**OPL1200 模塊組合表(3邊pin)**  
 | HDK 版本  |  V02  |
 | -------- |  ------- |
 | **性能版**| **[OPL1200L](https://github.com/Opulinks-Tech/OPL1000-HDK/raw/master/Module/OPL1200A2_D566L_EXLDO_V2.rar)**|
