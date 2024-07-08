@@ -2,9 +2,6 @@
 
 | **OPL1X00 HDK開發指南** | **[Download Link](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/OPL1000-HDK%20Development%20Guide_UG1-01-3.pdf)** | 
 
-**OPL1X00 HDK開發指南**
-| **OPL1X00 HDK開發指南** | **[Download Link](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/OPL1000-HDK%20Development%20Guide_UG1-01-3.pdf)** | 
-
 **OPL1800 模塊組合表*(3邊pin)**
 | **HDK 版本**    | **V01** | 
 | -------------- |------------|
