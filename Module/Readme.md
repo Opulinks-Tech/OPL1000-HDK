@@ -1,10 +1,13 @@
 ## 模塊方案:
 
-**OPL1600 模塊組合表*(3邊pin)*
-| **HDK 版本**    | **V01** |
+**OPL1X00 HDK開發指南**
+| **OPL1X00 HDK開發指南** |**(https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/OPL1000-HDK%20Development%20Guide_UG1-01-3.pdf)** | 
+
+**OPL1800 模塊組合表*(3邊pin)**
+| **HDK 版本**    | **V01** | 
 | -------------- |------------|
 | **兼容性**      | **D566**  |
-| **性能版**      | **[D566L_V01](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/OPL1600_EXTLDO.rar)** |
+| **性能版**      | **[D566L_V01](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/OPL1600_EXTLDO.rar)** |  
 | **最佳功耗與成本版** |**[D566D_V01](https://github.com/Opulinks-Tech/OPL1000-HDK/blob/master/Module/OPL1600_Internal.rar)** | 
  
 
